@@ -3,3 +3,9 @@ git commands
 git config --global user.name "name"
 
 git clone <repo link>
+
+git add --all
+
+git commit -m "commit message"
+
+git push
